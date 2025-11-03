@@ -1,0 +1,62 @@
+input {
+    border-radius: 1vh;
+    margin-left: 35vh;
+}
+
+
+select {
+    width: 8vh;
+    padding: .5vh;
+    font-size: 2vh;
+}
+
+label {
+    font-size: 2vh;
+    padding-left: 5vh;
+}
+
+h1 {
+    font-size: 5vh;
+    text-align: center;
+    padding-top: .5vh;
+}
+
+#wing {
+    background-color: rgb(215, 215, 215);
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    border-radius: 2vh;
+    width: 50vh;
+}
+
+#wings {
+    border-radius: 1vh;
+}
+
+#macs {
+    background-color: rgb(215, 215, 215);
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    border-radius: 2vh;
+    width: 50vh;
+}
+
+#mac {
+    border-radius: 1vh;
+}
+
+#desserts {
+    background-color: rgb(215, 215, 215);
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    border-radius: 2vh;
+    width: 50vh;
+}
+
+#dessert {
+    border-radius: 1vh;
+}
+
+h2 {
+    margin-left: 5vh;
+}
